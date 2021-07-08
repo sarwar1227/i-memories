@@ -1,6 +1,5 @@
 # i-Memories FULL-STACK MERN Social Media App
-
-This Project is built using **ReactJS** ⚛ & **Firebase** 🔥 for deployment , Which uses **Covid-19 API** to pull out the data in **JSON** Format of Covid patients and then convert it into pure **Javascript object** & display them in statewise order in a proper **tabular** format.
+i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using **ReactJS ⚛ , Redux, Material UI, ExpressJs, MongoDB** having Full **Authentication System** with **JSON WEB TOKENS** along with **Google sign-in authorization**, which lets users create their memories and allowing to like other user's posts.
 
 ## The App is `Deployed` at the below provided link - ##
 
