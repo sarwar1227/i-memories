@@ -49,11 +49,20 @@ i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using 
 ### `Third User Logged In the App`
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/18.user_2_memory_liked.png?raw=true)
 
-## Mobile View Snapshots
-### `Header Section`
-- &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/5.jpg?raw=true)
-### `Main App Features Section`
-- &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/7.jpg?raw=true)
-- &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/8.jpg?raw=true)
-### `Footer Section`
-- &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/6.jpg?raw=true)
+## Snapshots Of The App ( Mobile View )
+### `Initial State of App`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/1.initial.jpg?raw=true)
+### `SignIn Component`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/2.signin.jpg?raw=true)
+### `SignUp Component`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/3.signup.jpg?raw=true)
+### `User Signing In`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/4.signin_filled_up.jpg?raw=true)
+### `User Signed In`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/5.signed_in.jpg?raw=true)
+### `Memory Liked`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/6.memory_liked.jpg?raw=true)
+### `Editing A Memory`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/7.editing_a_memory.jpg?raw=true)
+### `Memory Edited`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/8.memory_edited.jpg?raw=true)
