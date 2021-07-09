@@ -9,7 +9,7 @@ i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using 
 ### [Live Site - Previous Version](https://i-memories.netlify.app//) - `Without Authentication & SignIn/SignUp Functionality`
 
 ## Interface Of The App
-![alt text]((https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/mobile_view_video.gif)
+![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/mobile_view_video.gif)
 
 ## Snapshots Of The App ( Web View )
 ### `Initial State of App ( When No Post Uploaded )`
