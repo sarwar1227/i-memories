@@ -11,6 +11,9 @@ i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using 
 ## Interface Of The App - In Mobile View
 ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/mobile_view_video.gif)
 
+## Interface Of The App - In Web View
+![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/web_view_video.gif)
+
 ## Snapshots Of The App ( Web View )
 ### `Initial State of App ( When No Post Uploaded )`
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/1.initial.png?raw=true)
