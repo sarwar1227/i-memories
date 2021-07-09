@@ -10,7 +10,7 @@ Previous Version : [https://i-memories.netlify.app/](https://i-memories.netlify.
 
 ## Snapshots Of The App ( Web View )
 ### `Initial State of App ( When no post uploaded )`
-- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/src/outputs/web/1. initial.png?raw=true)
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/1. initial.png?raw=true)
 ### `Main App Features Section`
 - &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/2.png?raw=true)
 - &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/3.png?raw=true)
