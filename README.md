@@ -11,11 +11,11 @@ Previous Version : [https://i-memories.netlify.app/](https://i-memories.netlify.
 ## Snapshots Of The App ( Web View )
 ### `Initial State of App ( When No Post Uploaded )`
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/1.initial.png?raw=true)
-### `Main App Features Section`
-- &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/2.png?raw=true)
-- &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/3.png?raw=true)
-### `Footer Section`
-- &nbsp; ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/4.png?raw=true)
+### `SignIn Component`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/2.login.png?raw=true)
+### `SignUn Component`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/3.signup.png?raw=true)
+
 
 ## Mobile View Snapshots
 ### `Header Section`
