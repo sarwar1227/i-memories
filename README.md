@@ -57,7 +57,7 @@ i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using 
 ### `SignUp Component`
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/3.signup.jpg?raw=true)
 ### `User Signing In`
-- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/4.signin_filled_up.jpg?raw=true)
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/4.signin_filled_up.jpg?raw=true)
 ### `User Signed In`
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/mobile/5.signed_in.jpg?raw=true)
 ### `Memory Liked`
