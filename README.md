@@ -3,8 +3,8 @@ i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using 
 
 ## The App is `Deployed` at the below provided link - ##
 
-- [Live Site - Current Version](https://i-memories-updated.netlify.app/)
-- [Live Site - Previous Version](https://i-memories.netlify.app//)
+- ###[Live Site - Current Version](https://i-memories-updated.netlify.app/)
+- ###[Live Site - Previous Version](https://i-memories.netlify.app//)
 
 ## Interface Of The App
 ![alt text](https://github.com/sarwar1227/covid-19-india-statewise/blob/main/src/components/stateWise/outputs/9.gif)
