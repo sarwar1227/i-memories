@@ -29,8 +29,22 @@ Previous Version : [https://i-memories.netlify.app/](https://i-memories.netlify.
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/9.editing_a_memory.png?raw=true)
 ### `Memory Edited`
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/10.memory_edited.png?raw=true)
-### `Signing Up`
+### `New User Signing Up`
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/11.signing_up.png?raw=true)
+### `User Logged Out`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/12.logged_out.png?raw=true)
+### `User Signing In With Google`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/13.login_with_google.png?raw=true)
+### `Google Ids Available To SignIn With`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/14.loggin_in_with_google.png?raw=true)
+### `User SignedIn With Google in the App`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/15.logged_in_with_google.png?raw=true)
+### `Liking Other's Memory with Google SignedIn Functionality`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/16.liking_a_memory_google_logged_in.png?raw=true)
+### `Creating A Memory with Google SignedIn Functionality`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/17.memory_created_google_logged_in.png?raw=true)
+### `Third User Logged In the App`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/18.user_2_memory_liked.png?raw=true)
 
 ## Mobile View Snapshots
 ### `Header Section`
