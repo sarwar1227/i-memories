@@ -1,5 +1,5 @@
 # i-Memories FULL-STACK MERN Social Media App
-i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using **ReactJS ⚛ , Redux , Material UI, NodeJs , ExpressJs, MongoDB** having Full **Authentication System** with **JSON WEB TOKENS** along with **Google sign-in authorization**, which lets users create their memories and allowing to like other user's posts.
+i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using **ReactJS ⚛** as Front-End UI Library , **Redux** for the state management of the app , **Material UI** for the styling of the app , **ExpressJs** - the famous back-end library of **NodeJs**  as a backend technology for creating server and RESTFUL APIs along with **MongoDB** as the database and **Mongoose** library for creating models and handling database related operations having features like creating, liking and deleting your own memories, also providing feature of liking other user's post providing **Sign-IN & Sign-Up** functionality with full **Authentication System** with **JSON WEB TOKENS** along with **Google Sign-In authorization** functionality too.
 
 ## The App is `Deployed` at the below provided link - ##
 
