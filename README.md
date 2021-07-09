@@ -19,7 +19,18 @@ Previous Version : [https://i-memories.netlify.app/](https://i-memories.netlify.
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/4.logging_in.png?raw=true)
 ### `Signin with ( Password Showing )`
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/5.loggin_in_password_showing.png?raw=true)
-
+### `Creating A Memory`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/6.creating_a_memory.png?raw=true)
+### `Memory Created`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/7.memory_created.png?raw=true)
+### `Memory Liked`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/8.memory_liked.png?raw=true)
+### `Editing A Memory`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/9.editing_a_memory.png?raw=true)
+### `Memory Edited`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/10.memory_edited.png?raw=true)
+### `Signing Up`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/11.signing_up.png?raw=true)
 
 ## Mobile View Snapshots
 ### `Header Section`
