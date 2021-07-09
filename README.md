@@ -16,9 +16,9 @@ Previous Version : [https://i-memories.netlify.app/](https://i-memories.netlify.
 ### `SignUp Component`
 - &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/3.signup.png?raw=true)
 ### `User Signing In`
-- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/4.logging in.png?raw=true)
-### `SignUp Component`
-- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/3.signup.png?raw=true)
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/4.logging_in.png?raw=true)
+### `Signin with ( Password Showing )`
+- &nbsp; ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/5.loggin_in_password_showing.png?raw=true)
 
 
 ## Mobile View Snapshots
