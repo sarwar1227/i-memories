@@ -3,7 +3,6 @@ i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 
 ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/17.memory_created_google_logged_in.png?raw=true)
 
