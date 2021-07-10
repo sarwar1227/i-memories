@@ -2,8 +2,8 @@
 i - Memories is a **FULL-STACK MERN 🔥** Social Media Application built using **REACTJS ⚛** as Front-End UI Library , **REDUX** for **`State management`** of the app & for **`API Calls`** to the back-end , **MATERIAL UI** for the styling of the app , **EXPRESSJS** - the famous Back-End Library of **NODEJS**  as a backend technology for creating **`Server`** and **`RESTFUL APIs`** along with **MONGODB** as the database and **MONGOOSE** library for creating models and handling database related operations having features like creating, displaying, editing, liking and deleting your own memories ( **`CRUD`** Operations ) , also providing feature of liking other user's post also offering the **`Signin & Signup`** functionality with full **`Authentication System`** with **`JSON Web Tokens`** along with **`Google Signin Authorization`** functionality too.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-- Front-End UI - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- State Management - ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
 
 ![alt text](https://github.com/sarwar1227/i-memories/blob/main/client/outputs/web/17.memory_created_google_logged_in.png?raw=true)
 
